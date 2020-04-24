@@ -161,7 +161,6 @@ def ruanmei(jiekou):
         headers=jiekou["headers"],
         data=json.dumps(jiekou.get("parm"))
     )
-    print("软媒")
     print(resp.status_code)
     print(resp.content.decode())
     print(resp.url)
