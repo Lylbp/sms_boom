@@ -141,7 +141,6 @@ def xxsy(jiekou):
         headers=jiekou["headers"],
         data=jiekou.get("parm")
     )
-    print("潇湘书院")
     print(resp.status_code)
     print(resp.content.decode())
     print(resp.url)
