@@ -8,12 +8,9 @@
 <img src="img/test.png" width="218" height="80">
 <img src="img/1.png">
  
-需要 **多线程多接口版本** 或 **软件** 的版本请加
+需要 **多线程多接口版本** 或 **软件(内置代理)** 的版本请加
 
 ### QQ: 2470571458
-
-# 捐助
-<img src="img/pay.jpg" width="200px" height="300px">
 
 # 其他
 Pornhub视频下载器: https://github.com/xilidexiao/pornhub
