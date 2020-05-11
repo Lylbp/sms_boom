@@ -10,7 +10,7 @@
  
 需要 **多线程多接口版本** 或 **软件(内置代理)** 的版本请加
 
-### QQ: 2470571458
+### QQ: 2416447718
 
 # 其他
 Pornhub视频下载器: https://github.com/xilidexiao/pornhub
